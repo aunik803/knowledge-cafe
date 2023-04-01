@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Andrew Shapiro",
+    "date": "Mar 14 (4 Days ago)",
+    "profile": "https://www.sigmatraffic.com/img/theme/icons/people/andrew.png",
+    "title": "How to get your first job as a self-taught programmer",
+    "time": "05",
+    "img": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Nikhil Kurup",
+    "date": "Mar 17 (4 Days ago)",
+    "profile": "https://www.sigmatraffic.com/img/theme/icons/people/nikhil.png",
+    "time": "10",
+    "img": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Osman Abbasi",
+    "date": "Mar 17 (4 Days ago)",
+    "profile": "https://www.sigmatraffic.com/img/theme/icons/people/osman.png",
+    "title": "Master Microsoft Power Platform and Become an In-Demand!",
+    "time": "12",
+    "img": "https://plus.unsplash.com/premium_photo-1678914045824-9746ba6304e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Lauren Campbell",
+    "date": "Mar 17 (4 Days ago)",
+    "profile": "https://www.sigmatraffic.com/img/theme/icons/people/lauren.png",
+    "title": "Do tech companies hire self-taught programmers?",
+    "time": "15",
+    "img": "https://images.unsplash.com/photo-1680330386302-64bdc5d35d86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+  }
+]

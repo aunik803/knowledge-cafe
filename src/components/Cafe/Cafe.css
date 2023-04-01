@@ -1,0 +1,15 @@
+.cafe-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.blogs-container {
+  margin: 100px;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .cafe-container {
+    display: inline;
+  }
+}
